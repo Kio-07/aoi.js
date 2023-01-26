@@ -1,5 +1,5 @@
 {
-  "name": "aoi.js",
+  "name": "aeos.js",
   "version": "5.5.5",
   "description": "aoi.js - A powerful package to create Discord Bots with built-in string functions.",
   "main": "src/index.js",
